@@ -1,6 +1,10 @@
 
 ![msg-1001912792472-18](https://github.com/TOMMYGUISEPE/LICH-ROM/assets/160074680/ba68ed61-ee8f-4fd5-af5c-0054f72d9ea9)
 
+**LICH-ROM**
+
+- [ ] hola
+
 
 ■•••••••••🔥LICH ROM CHEESE🔥•••••••••■
               《[OneUI 6]》
