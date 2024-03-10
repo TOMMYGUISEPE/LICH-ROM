@@ -40,6 +40,8 @@ Telegram Group: https://t.me/LICHROM
 4. Reboot system
 
 **NOTE:** You can perform a dirty flash on the same ascending variant (example: if you have A54-v1 you can do dirty flashes of A54-v2), keep in mind that this can cause failures. 
+## Donate
+[donation](https://youtu.be/hPr-Yc92qaY)
 ## Credits
 - @Tom_54
 - @MVNLTP 
