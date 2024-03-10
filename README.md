@@ -11,7 +11,7 @@ LICH is a project in charge of porting roms from the A54 and S21 FE devices to t
 - [Credits](#credits)
 
 ## Links
-Telegram Group: https://t.me/brickosrom
+Telegram Group: https://t.me/LICHROM
 
 ## ChangeLog
 - Small update
