@@ -25,8 +25,21 @@ Telegram Group: https://t.me/LICHROM
 - If you find more bugs, report it to the group [if you have BT audio problems activate a2dp in developer options ]
 
 ## Installation
-- Formad data and Flash zip [mandatory]
+**If it comes from an AOSP or STOCK rom:**
+1. Reboot TWRP
+2. Wipe>Formad data>Yes
+3. Reboot TWRP
+4. Wipe>Formad data>Yes
+5. Flash .zip
+6. Reboot system
 
+**If it is in a version of lich rom:**
+1. Reboot TWRP
+2. Wipe>Formad data>Yes
+3. Flash .zip
+4. Reboot system
+
+**NOTE:** You can perform a dirty flash on the same ascending variant (example: if you have A54-v1 you can do dirty flashes of A54-v2), keep in mind that this can cause failures. 
 ## Credits
 - @Tom_54
 - @MVNLTP 
