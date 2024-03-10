@@ -5,7 +5,7 @@ LICH is a project in charge of porting roms from the A54 and S21 FE devices to t
 
 ## Table of Contents
 - [Links](#links)
-- [ChangeLog](#changelog)
+- [Port-Versions](#port-versions)
 - [Bugs](#bugs)
 - [Installation](#installation)
 - [Credits](#credits)
@@ -13,13 +13,10 @@ LICH is a project in charge of porting roms from the A54 and S21 FE devices to t
 ## Links
 Telegram Group: https://t.me/LICHROM
 
-## ChangeLog
-- Small update
-- 60hz on default
-- Fix motion smoothness
-- Added fix on the smart view and samsung internet
-- Faster animations
-- Added portrait effect and faster oneui home
+## Port-Versions
+- **Port a54:** for those who just want something simple and without so many functions of the S series.
+
+- **Port S21 Fe:** for those who want to enjoy the features of the S series. 
 
 ## Bugs
 - If you find more bugs, report it to the group [if you have BT audio problems activate a2dp in developer options ]
